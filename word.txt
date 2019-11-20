@@ -1,3 +1,14 @@
+index.html
+index.php
+index.asp
+css
+js
+asset
+assets
+css/style.css
+amdin
+wp-amdin
+wp-login
 a
 b
 c
